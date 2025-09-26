@@ -2,13 +2,15 @@
 
 """
 XGen_ExplicitPaths.py: A script to set XGen file paths to explicit when batch rendering, and back to relative when done.
-Updated 6/27/2025
+Updated 9/25/2025
 After running this script, in the xGen window press File > Export Patches for Batch Render
+
+https://github.com/conlen-b/cb-maya-tools/blob/main/xgen-explicit-paths/XGen_ExplicitPaths.py
 """
 
 __author__ = "Conlen Breheny"
 __copyright__ = "Copyright 2025, Conlen Breheny"
-__version__ = "1.3.1" #Major.Minor.Patch
+__version__ = "1.3.2" #Major.Minor.Patch
 
 import maya.cmds as cmds
 import xgenm as xg
