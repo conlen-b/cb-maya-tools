@@ -1,4 +1,4 @@
-# xgen-explicit-paths
+# **[xgen-explicit-paths](./XGen_ExplicitPaths.py)**
 A script to set XGen file paths to explicit when batch rendering, and back to relative when done.
 
 https://github.com/user-attachments/assets/f0a672e7-f433-4fd5-ab7d-80c6d1c63293
